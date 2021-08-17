@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junior0803
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Mearn, Python, WordPress and AI
+- 🌱 I’m currently learning Mern, Python, WordPress Mobile Development and AI
 - 💞️ I’m looking to collaborate on all developer
 - 📫 How to reach me with email and skype
 
