@@ -32,7 +32,6 @@ Hi there 👋, I am Full stack Web & Blockchain developer.
 
 ✅Familiar with SEO writing
 
-### 👨‍💻 Programming languages
 
 
 
