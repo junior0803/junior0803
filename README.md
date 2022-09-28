@@ -1,4 +1,4 @@
-Hi there 👋, I am Full stack Web & Blockchain developer.
+Hi there 👋, I am Senior Software Engineer/AI Expert/DevOps.
 
 - 🔭 I’m currently working on Blockchain, Ethereum, Smart Contract, Solidity, Solana, Rust ...
 
@@ -10,27 +10,31 @@ Hi there 👋, I am Full stack Web & Blockchain developer.
 
 ### Languages and Tools:
 
-✅ Html, CSS, Bootstrap, Material UI, Sess, Sass, JavaScript, jQuery
+  ✅ Html, CSS, Bootstrap, Material UI, Sess, Sass, JavaScript, jQuery
 
-✅ PHP, Laravel, WordPress, CodeIgniter, Yii, CakePHP, Symfony
+  ✅ PHP, Laravel, WordPress, CodeIgniter, Yii, CakePHP, Symfony
 
-✅ React.js & Redux (Sag and Thunk), AnuglarJS, VueJS, node.js & express
+  ✅ React.js & Redux (Sag and Thunk), AnuglarJS, VueJS, node.js & express
 
-✅ React Native, Flutter and IONIC, Native mobile app(Android, iOS)
+  ✅ React Native, Flutter and IONIC, Native mobile app(Android, iOS)
 
-✅ Python, Rub on Rails, Django, Flask
+  ✅ Python, Rub on Rails, Django, Flask
 
-✅ C/C++, C#, Java, VB.NET
+  ✅ Java Spring, Spring Boot
 
-✅ ASP.NET CORE/MVC, Unity 2D, 3D Game development & Game design
+  ✅ C/C++, C#, Java, VB.NET
 
-✅ E-Commerce including Prestashop, Shopify
+  ✅ ASP.NET CORE/MVC, Unity 2D, 3D Game development & Game design
 
-✅ Git, Jira, Trello, Asana, Bitbucket in a team environment.
+  ✅ E-Commerce including Prestashop, Shopify
 
-✅ MySQL, Oracle, MongoDB, MsSQL.
+  ✅ Git, Jira, Trello, Asana, Bitbucket in a team environment.
 
-✅Familiar with SEO writing
+  ✅ MySQL, Oracle, MongoDB, MsSQL.
+  
+  ✅ Java, Kotlin, Swift, Flutter, React-Native.
+
+  ✅ Familiar with SEO writing
 
 
 
