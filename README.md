@@ -1,4 +1,6 @@
-Hi there 👋, I am Senior Software Engineer/AI Expert/DevOps.
+### Hi there 
+
+👋, I am Senior Software Engineer/AI Expert/DevOps.
 
 ### Languages and Tools:
 
