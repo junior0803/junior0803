@@ -1,13 +1,5 @@
 Hi there 👋, I am Senior Software Engineer/AI Expert/DevOps.
 
-- 🔭 I’m currently working on Blockchain, Ethereum, Smart Contract, Solidity, Solana, Rust ...
-
-- 💬 Ask me about Web (MERN, MEAN, MEVN, Laravel ...), Blockchain development
-
-- 👯 I’m looking for a remote job and feel free to contact me.
-
-- 📫 How to reach me: junior950803@gmail.com, Skype: live:.cid.973bbe30636802f8
-
 ### Languages and Tools:
 
   ✅ Html, CSS, Bootstrap, Material UI, Sess, Sass, JavaScript, jQuery
