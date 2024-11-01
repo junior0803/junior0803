@@ -1,34 +1,39 @@
-# Hello, Everything
+# Full Stack Software Engineer | 10+ Years of Experience
 
-#### 👋, I am Senior Software Engineer/AI Expert/DevOps.
+#### As a versatile Full Stack Developer with a strong foundation in web, mobile and AI development, I specialize in building robust, high-quality applications for a diverse range of clients. With over a decade of experience, I’ve worked as a senior developer and team lead in international environments, collaborating with talented developers and delivering innovative solutions across multiple platforms.
 
-### Languages and Tools:
+✅Web Development Expertise
+I focus on creating high-performance, scalable web applications, primarily with:
+- PHP Frameworks: Laravel, CodeIgniter, CakePHP, Symfony, WordPress, OctoberCMS
+- JavaScript: VueJS, React, Angular, Node.js
+- Successfully developed platforms like B2B2C e-commerce sites, Fintech platforms, booking systems, and food delivery services
 
-  ✅ Html, CSS, Bootstrap, Material UI, Sess, Sass, JavaScript, jQuery
+✅Mobile Development Expertise
+- Cross-Platform: Flutter, React Native
+- Native Development: Swift (iOS), Kotlin (Android)
+- Delivered responsive, user-friendly mobile applications optimized for performance and designed for user engagement
 
-  ✅ PHP, Laravel, WordPress, CodeIgniter, Yii, CakePHP, Symfony
+✅Electronics and AI Engineer
+- Electronics Design Program
+- Embedded Software development : ARM, Arduino, PIC, Raspberry Pi and etc
+-AI engineer : Image Processing, Audio Processing, Deep Learning, Machine Learning, ChatGPT, DALL·E 
 
-  ✅ React.js & Redux (Sag and Thunk), AnuglarJS, VueJS, node.js & express
 
-  ✅ React Native, Flutter and IONIC, Native mobile app(Android, iOS)
+✅DevOps & Tools
+- Cloud: AWS, Google Cloud, Digital Ocean, Azure
+- Automation & CI/CD: Docker, Kubernetes, Jenkins, GitHub, GitLab, Bitbucket
 
-  ✅ Python, Rub on Rails, Django, Flask
 
-  ✅ Java Spring, Spring Boot
+✅Achievements
+- Delivered 240+ successful projects across 40+ countries
+- Recognized in the top 3% of developers for Laravel, Django, React, Vue, and Angular frameworks
+- Established long-term client relationships through high-quality service and continuous support
 
-  ✅ C/C++, C#, Java, VB.NET
+✅Education
+- Bachelor’s in Computer Science: Specialized in multi-layered software and web/mobile app design, with expertise in OOP, QA Testing, and multi-threaded applications
 
-  ✅ ASP.NET CORE/MVC, Unity 2D, 3D Game development & Game design
+Thank you for considering my profile. I look forward to applying my mobile and web development expertise to bring your project to life. Please feel free to reach out to discuss your ideas!
 
-  ✅ E-Commerce including Prestashop, Shopify
-
-  ✅ Git, Jira, Trello, Asana, Bitbucket in a team environment.
-
-  ✅ MySQL, Oracle, MongoDB, MsSQL.
-  
-  ✅ Java, Kotlin, Swift, Flutter, React-Native.
-
-  ✅ Familiar with SEO writing
 
 
 
