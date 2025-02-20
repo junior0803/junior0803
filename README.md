@@ -6,7 +6,7 @@
  I focus on creating high-performance, scalable web applications, primarily with:
  - PHP Frameworks: Laravel, CodeIgniter, CakePHP, Symfony, WordPress, OctoberCMS
  - JavaScript: VueJS, React, Angular, Node.js
- - Successfully developed platforms like B2B2C e-commerce sites, Fintech platforms, booking systems, and food delivery services
+ - Successfully developed platforms like B2B, B2C e-commerce sites, Fintech platforms, booking systems, and food delivery services
 
 ✅Mobile Development Expertise
  - Cross-Platform: Flutter, React Native
